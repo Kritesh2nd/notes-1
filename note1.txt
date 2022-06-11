@@ -13,3 +13,9 @@ git remote add origin https://github.com/blankwave/test.git
 |03| To add git branch in remote
 git push -u origin master
 
+|03| To get which remote repositories url am i using
+git config --get remote.origin.url
+
+|03| To get which remote repositories url am i using
+git remote -v
+
