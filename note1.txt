@@ -1,5 +1,8 @@
 |01| To get user name
 git config user.name
 
-|01| To get user email
+|02| To get user email
 git config user.email
+
+|02| To get change user name
+git config --global user.name "zerocodewhite"
