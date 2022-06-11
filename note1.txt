@@ -7,15 +7,16 @@ git config user.email
 |03| To get change user name
 git config --global user.name "zerocodewhite"
 
-|03| To add remote repositories
+|04| To add remote repositories
 git remote add origin https://github.com/blankwave/test.git
 
-|03| To add git branch in remote
+|05| To add git branch in remote
 git push -u origin master
 
-|03| To get which remote repositories url am i using
+|06| To get which remote repositories url am i using
 git config --get remote.origin.url
 
-|03| To get which remote repositories url am i using
+|07| To get which remote repositories url am i using
 git remote -v
 
+https://bibekkhatri.notion.site/Git-0a7659fcb13d4223888798a9d0fbae8b
