@@ -1,0 +1,5 @@
+|01| To get user name
+git config user.name
+
+|01| To get user email
+git config user.email
