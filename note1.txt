@@ -20,3 +20,5 @@ git config --get remote.origin.url
 git remote -v
 
 https://bibekkhatri.notion.site/Git-0a7659fcb13d4223888798a9d0fbae8b
+
+go to credential manager -> windows credential -> then remove credential
