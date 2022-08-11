@@ -19,4 +19,6 @@ git config --get remote.origin.url
 |07| To get which remote repositories url am i using
 git remote -v
 
+|08| To change remote repositories
+git remote set-url origin https://github.com/USERNAME/REPOSITORY.git
 https://bibekkhatri.notion.site/Git-0a7659fcb13d4223888798a9d0fbae8b
