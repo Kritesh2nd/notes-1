@@ -19,4 +19,9 @@ git config --get remote.origin.url
 |07| To get which remote repositories url am i using
 git remote -v
 
+|08| To change the existing remote url
+git remote set-url origin git@https://github.com:Kritesh2nd/fourthsemjava.git
+
+
+https://github.com/Kritesh2nd/fourthsemjava.git
 https://bibekkhatri.notion.site/Git-0a7659fcb13d4223888798a9d0fbae8b
